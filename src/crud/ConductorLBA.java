@@ -7,4 +7,8 @@ public class ConductorLBA {
 		
 		lba.listaEquiposLBA();
 	}
+	
+	//public void mainMenu() {
+	//	System.out.println("Bienvenido a la liga de baloncesto");
+	//}
 }
